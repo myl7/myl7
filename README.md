@@ -19,5 +19,7 @@ It's myl7!
 
 <details>
   <summary>Show GitHub stats: (Be careful of light if in dark mode)</summary>
-  ![myl7's github stats](https://github-readme-stats.vercel.app/api?username=myl7)
+
+![myl7's github stats](https://github-readme-stats.vercel.app/api?username=myl7)
+
 </details>
