@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 It's myl7!
 
-![myl7's GitHub status](https://github-readme-stats.vercel.app/api?username=myl7&count_private=true&theme=gruvbox)
+![myl7's GitHub stats](https://github-readme-stats.vercel.app/api?username=myl7&count_private=true&theme=gruvbox)
 
 Avatar: From [PID 57793944](https://www.pixiv.net/artworks/57793944), used with permission according to [the author's description](https://www.pixiv.net/users/490219).
