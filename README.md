@@ -8,9 +8,7 @@ If you are looking for a CV, please refer to [this page on my blog](https://myl.
 
 ### onedrive-vercel-index
 
-Add selected and folder download
-
-Ref: PR spencerwooo/onedrive-vercel-index#169 and spencerwooo/onedrive-vercel-index#177
+Ref: https://github.com/spencerwooo/onedrive-vercel-index/pulls?q=is%3Apr+author%3Amyl7
 
 ### aria2
 
