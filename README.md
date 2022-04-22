@@ -18,7 +18,7 @@
 
 - GitHub: [myl7](https://github.com/myl7)
 - Blog: [myl.moe](https://myl.moe)
-- Telegram: Channel [@myl7s](https://t.me/myl7s) and Person [@myl107](https://t.me/myl107)
+- Telegram: channel [@myl7s](https://t.me/myl7s) and person [@myl107](https://t.me/myl107)
 - Twitter: [@myl107](https://twitter.com/myl107) (forwarded from Telegram [@myl7s](https://t.me/myl7s) via [myl7/tgchan2tw](https://github.com/myl7/tgchan2tw))
 - Email: [myl7.moe@gmail.com](mailto:myl7.moe@gmail.com) or [myl@myl.moe](mailto:myl@myl.moe)
 
