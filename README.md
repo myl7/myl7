@@ -10,7 +10,7 @@
 ## Identities
 
 - Real name: Yulong Ming, 明宇龙 in Chinese
-- FOSS enthusiast but tolerate [antisocial acts](https://www.fsf.org/news/lifes-better-together-when-you-avoid-windows-11/#:~:text=Developing%20nonfree%20software%20is%20an%20inherently%20antisocial%20act "\"Developing nonfree software is an inherently antisocial act\" by FSF")
+- Free software enthusiast ([even once is help](https://www.gnu.org/philosophy/saying-no-even-once.html))
 - GitHub active code contributor with [about 1K contributions annually](https://github.com/myl7)
 - Linux fans running Arch Linux for everyday use
 
