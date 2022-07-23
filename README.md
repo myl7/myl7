@@ -10,7 +10,7 @@
 - Real name: Yulong Ming, 明宇龙 in Chinese
 - Free software enthusiast ([even once is help](https://www.gnu.org/philosophy/saying-no-even-once.html))
 - GitHub active code contributor with [about 1k contributions annually](https://github.com/myl7)
-- Linux fans running Arch Linux for everyday use
+- Linux fan running Arch Linux for everyday use
 
 ## Contacts
 
