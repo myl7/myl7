@@ -6,7 +6,7 @@
 ![myl7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=myl7&count_private=true&theme=gruvbox&show_icons=true)
 
 - myl7 `==` Yulong Ming in en `==` 明宇龙 in zh-Hans, he/him
-- PhD student (2022-26) in CS at [CityU HK](https://www.cityu.edu.hk/ 'City University of Hong Kong') interested in network security, especially metadata security recently
+- PhD student (2022-26) in CS at [CityU HK](https://www.cityu.edu.hk/ 'City University of Hong Kong') interested in Network Security, especially Metadata Privacy recently
 - [FLOSS](https://wikipedia.org/wiki/FLOSS 'free and open-source software') enthusiast believing that [even once is help](https://www.gnu.org/philosophy/saying-no-even-once.html)
 - GitHub active code contributor with [over 1k contributions per year](https://github.com/myl7)
 - Linux fan running Arch Linux for everyday use
