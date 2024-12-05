@@ -31,3 +31,5 @@
     I actually have 3 Steam accounts with games family shared, so please do not mind the small game count.
 
 </details>
+
+![myl7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=myl7&count_private=true&theme=gruvbox&show_icons=true)
