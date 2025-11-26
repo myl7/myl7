@@ -23,7 +23,7 @@ Some other links:
 <details>
 <summary style="display: block;">
 
-## > Entertainment Links
+## Entertainment Links
 
 </summary>
 
