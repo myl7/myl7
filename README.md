@@ -8,3 +8,7 @@
 - **Social media**: I post on my channels on [Telegram](https://t.me/myl7s) and [小红书](https://www.xiaohongshu.com/user/profile/64f3012b000000000603199d).
   All my channels have almost the same content.
   Homepage: [myl7.org](https://myl7.org). Emails: <i@myl7.org> (also: [research](mailto:myl.7@my.cityu.edu.hk) and [general use](mailto:myl7.moe@gmail.com)).
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myl7&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myl7&layout=compact&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=myl7&theme=radical)
